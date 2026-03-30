@@ -119,7 +119,46 @@
 
 
 ## 4. Qualitative Results from IP-Adapter
-
+<table>
+    <tr>
+    <th align="center">Anchor Image</th>
+    <th align="center">REPA-G</th>
+    <th align="center">Adapter</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="adapter/1_gt.png" alt="Figure 1" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="adapter/1_repag.png" alt="Figure 2" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="adapter/1_adapter.png" alt="Figure 3" width="500"><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="adapter/2_gt.png" alt="Figure 1" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="adapter/2_repag.png" alt="Figure 2" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="adapter/2_adapter.png" alt="Figure 3" width="500"><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="adapter/3_gt.png" alt="Figure 1" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="adapter/3_repag.png" alt="Figure 2" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="adapter/3_adapter.png" alt="Figure 3" width="500"><br>
+    </td>
+  </tr>
+</table>
 
 ## 5. Qualitative results from TFG
 
