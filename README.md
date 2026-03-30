@@ -165,7 +165,7 @@
     <tr>
     <th align="center">Anchor Image (Full feature map)</th>
     <th align="center">REPA-G</th>
-    <th align="center">Adapter</th>
+    <th align="center">TFG</th>
   </tr>
   <tr>
     <td align="center">
