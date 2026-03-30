@@ -42,6 +42,32 @@
   </tr>
 </table>
 
+### Multi-source experiments on CLIP Score
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="hyperparams/multi-source-exps/clip_ipa.png" alt="Figure 1" width="600"><br>
+    </td>
+    <td align="center">
+      <img src="hyperparams/multi-source-exps/clip_spa.png" alt="Figure 1" width="600"><br>
+    </td>
+  </tr>
+</table>
+
+### Multi-source experiments on Pick Score
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="hyperparams/multi-source-exps/peak_ipa.png" alt="Figure 1" width="600"><br>
+    </td>
+    <td align="center">
+      <img src="hyperparams/multi-source-exps/peak_spa.png" alt="Figure 1" width="600"><br>
+    </td>
+  </tr>
+</table>
+
 ## 2. Failure Cases 
 
 ## 3. Results on Different Self-supervised Alignment Backbones
