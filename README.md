@@ -2,6 +2,46 @@
 
 ## 1. Detailed Hyperparameter Study Experiments
 
+### Single-source experiments on distribution-level metrics
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="hyperparams/single-source-exps/fid.png" alt="Figure 1" width="600"><br>
+    </td>
+    <td align="center">
+      <img src="hyperparams/single-source-exps/sfid.png" alt="Figure 2" width="600"><br>
+    </td>
+    <td align="center">
+      <img src="hyperparams/single-source-exps/IS.png" alt="Figure 3" width="600"><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="hyperparams/single-source-exps/precision.png" alt="Figure 5" width="600"><br>
+    </td>
+    <td align="center">
+      <img src="hyperparams/single-source-exps/recall.png" alt="Figure 6" width="600"><br>
+    </td>
+  </tr>
+</table>
+
+### Single-source experiments on instance-level metrics
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="hyperparams/single-source-exps/alignments_full_feat_map.png" alt="Figure 1" width="600"><br>
+    </td>
+    <td align="center">
+      <img src="hyperparams/single-source-exps/alignment_masked_feat_map.png" alt="Figure 2" width="600"><br>
+    </td>
+    <td align="center">
+      <img src="hyperparams/single-source-exps/alignment_ave_feat_map.png" alt="Figure 3" width="600"><br>
+    </td>
+  </tr>
+</table>
+
 ## 2. Failure Cases 
 
 ## 3. Results on Different Self-supervised Alignment Backbones
