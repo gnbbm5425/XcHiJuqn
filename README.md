@@ -201,4 +201,36 @@
     </td>
   </tr>
 </table>
+
 ## 6. Qualitative results from High Resolution Generations ($512 \times 512$)
+
+<table>
+    <tr>
+    <th align="center">Anchor Image (Full feature map)</th>
+    <th align="center">REPA-G Resolution 512x512</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="512/2_gt.png" alt="Figure 1" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="512/2_512.png" alt="Figure 2" width="500"><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="512/3_gt.png" alt="Figure 1" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="512/3_512.png" alt="Figure 2" width="500"><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="512/1_gt.png" alt="Figure 1" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="512/1_512.png" alt="Figure 2" width="500"><br>
+    </td>
+  </tr>
+</table>
