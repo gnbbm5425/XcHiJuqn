@@ -267,10 +267,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="512/1_gt.png" alt="Figure 1" width="500"><br>
+      <img src="512/4_gt.png" alt="Figure 1" width="500"><br>
     </td>
     <td align="center">
-      <img src="512/1_512.png" alt="Figure 2" width="500"><br>
+      <img src="512/4_512.png" alt="Figure 2" width="500"><br>
     </td>
   </tr>
 </table>
