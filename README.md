@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="figures/title1_fig1.png" alt="Figure 1" width="200"><br>
+      <img src="Vision_Encoders/PE/Plot1.pdf" alt="Figure 1" width="200"><br>
       Figure 1
     </td>
     <td align="center">
