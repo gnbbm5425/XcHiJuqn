@@ -121,7 +121,7 @@
 ## 4. Qualitative Results from IP-Adapter
 <table>
     <tr>
-    <th align="center">Anchor Image</th>
+    <th align="center">Anchor Image (Avg. feature map)</th>
     <th align="center">REPA-G</th>
     <th align="center">Adapter</th>
   </tr>
