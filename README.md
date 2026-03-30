@@ -84,35 +84,35 @@
 <table>
   <tr>
     <td align="center">
-      <img src="Vision_Encoders/DINOv2/Plot1.png" alt="Figure 1" width="500"><br>
+      <img src="Vision_Encoders/DINOv2/Plot1.png" alt="Figure 1" width="600"><br>
     </td>
     <td align="center">
-      <img src="Vision_Encoders/DINOv2/Plot2.png" alt="Figure 2" width="500"><br>
+      <img src="Vision_Encoders/DINOv2/Plot2.png" alt="Figure 2" width="600"><br>
     </td>
     <td align="center">
-      <img src="Vision_Encoders/DINOv2/Plot3.png" alt="Figure 3" width="500"><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="Vision_Encoders/DINOv2/Plot4.png" alt="Figure 5" width="500"><br>
-    </td>
-    <td align="center">
-      <img src="Vision_Encoders/DINOv2/Plot5.png" alt="Figure 6" width="500"><br>
-    </td>
-    <td align="center">
-      <img src="Vision_Encoders/DINOv2/Plot6.png" alt="Figure 7" width="500"><br>
+      <img src="Vision_Encoders/DINOv2/Plot3.png" alt="Figure 3" width="600"><br>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Vision_Encoders/DINOv2/Plot7.png" alt="Figure 9" width="500"><br>
+      <img src="Vision_Encoders/DINOv2/Plot4.png" alt="Figure 5" width="600"><br>
     </td>
     <td align="center">
-      <img src="Vision_Encoders/DINOv2/Plot8.png" alt="Figure 10" width="500"><br>
+      <img src="Vision_Encoders/DINOv2/Plot5.png" alt="Figure 6" width="600"><br>
     </td>
     <td align="center">
-      <img src="Vision_Encoders/DINOv2/Plot9.png" alt="Figure 11" width="500"><br>
+      <img src="Vision_Encoders/DINOv2/Plot6.png" alt="Figure 7" width="600"><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Vision_Encoders/DINOv2/Plot7.png" alt="Figure 9" width="600"><br>
+    </td>
+    <td align="center">
+      <img src="Vision_Encoders/DINOv2/Plot8.png" alt="Figure 10" width="600"><br>
+    </td>
+    <td align="center">
+      <img src="Vision_Encoders/DINOv2/Plot9.png" alt="Figure 11" width="600"><br>
     </td>
   </tr>
 </table>
