@@ -161,5 +161,44 @@
 </table>
 
 ## 5. Qualitative results from TFG
-
+<table>
+    <tr>
+    <th align="center">Anchor Image (Full feature map)</th>
+    <th align="center">REPA-G</th>
+    <th align="center">Adapter</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="tfg/1_gt.png" alt="Figure 1" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="tfg/1_repag.png" alt="Figure 2" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="tfg/1_tfg.png" alt="Figure 3" width="500"><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="tfg/2_gt.png" alt="Figure 1" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="tfg/2_repag.png" alt="Figure 2" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="tfg/2_tfg.png" alt="Figure 3" width="500"><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="tfg/3_gt.png" alt="Figure 1" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="tfg/3_repag.png" alt="Figure 2" width="500"><br>
+    </td>
+    <td align="center">
+      <img src="tfg/3_tfg.png.png" alt="Figure 3" width="500"><br>
+    </td>
+  </tr>
+</table>
 ## 6. Qualitative results from High Resolution Generations ($512 \times 512$)
