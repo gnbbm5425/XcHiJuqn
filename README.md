@@ -72,10 +72,10 @@
       <img src="Vision_Encoders/CLIP/Plot7.png" alt="Figure 9" width="500"><br>
     </td>
     <td align="center">
-      <img src="Vision_Encoders/CLIP/Plot8.png" alt="Figure 10" width="500"><br>
+      <img src="Vision_Encoders/CLIP/Plot9.png" alt="Figure 10" width="500"><br>
     </td>
     <td align="center">
-      <img src="Vision_Encoders/CLIP/Plot9.png" alt="Figure 11" width="500"><br>
+      <img src="Vision_Encoders/CLIP/Plot10.png" alt="Figure 11" width="500"><br>
     </td>
   </tr>
 </table>
