@@ -77,7 +77,7 @@
     <th>Anchor</th>
     <th>Target</th>
     <th>Generated</th>
-    <th>Comment</th>
+    <th>Caption </th>
   </tr>
 
   <!-- Row 1 -->
