@@ -289,9 +289,9 @@
 ## 5. Qualitative results from TFG
 <table>
     <tr>
-    <th align="center">Anchor Image (Full feature map)</th>
-    <th align="center">REPA-G</th>
-    <th align="center">TFG</th>
+    <th align="center">Anchor Image</th>
+    <th align="center">REPA-G (Full feature map)</th>
+    <th align="center">TFG (Full feature map)</th>
   </tr>
   <tr>
     <td align="center">
