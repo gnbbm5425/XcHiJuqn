@@ -70,6 +70,66 @@
 
 ## 2. Failure Cases 
 
+<table>
+
+  <!-- Header -->
+  <tr>
+    <th>Anchor</th>
+    <th>Target</th>
+    <th>Generated</th>
+    <th>Comment</th>
+  </tr>
+
+  <!-- Row 1 -->
+  <tr>
+    <td>
+      <img src="multi_energy_failure/207_670_18_23995_on_bricks/anchor_207_670.png">
+    </td>
+    <td>
+      <img src="multi_energy_failure/207_670_18_23995_on_bricks/target_18_23995.png">
+    </td>
+    <td>
+      <img class="generated" src="multi_energy_failure/207_670_18_23995_on_bricks/generated.png">
+    </td>
+    <td class="comment">
+      Inconsistent aspect ratio
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td>
+      <img src="multi_energy_failure/479_386_0_0_on_grass/anchor_479_386.png">
+    </td>
+    <td>
+      <img src="multi_energy_failure/479_386_0_0_on_grass/target_0_0.png">
+    </td>
+    <td>
+      <img class="generated" src="multi_energy_failure/479_386_0_0_on_grass/generated.png">
+    </td>
+    <td class="comment">
+      Failed blending
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td>
+      <img src="multi_energy_failure/992_1258_477_613589_on_wood/anchor_992_1258.png">
+    </td>
+    <td>
+      <img src="multi_energy_failure/992_1258_477_613589_on_wood/target_477_613589.png">
+    </td>
+    <td>
+      <img class="generated" src="multi_energy_failure/992_1258_477_613589_on_wood/generated.png">
+    </td>
+    <td class="comment">
+      Inconsistent view point
+    </td>
+  </tr>
+
+</table>
+
 ## 3. Results on Different Self-supervised Alignment Backbones
 
 ### Perception Encoder
